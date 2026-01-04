@@ -1,4 +1,4 @@
-# **WIP**
+# Password Generator -- **WIP**
 This project is based on FreeCodeCamp (FCC) Scientific Computing with Python curriculum. I'm still half my way to complete the project.
 
 ## New things I have learned so far:
