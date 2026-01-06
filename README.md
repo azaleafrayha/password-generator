@@ -4,13 +4,14 @@ This project is based on FreeCodeCamp (FCC) Scientific Computing with Python cur
 It's not just random gibberish, it uses **Regex** to make sure every password has the right mix of symbols, numbers, and letters. And this is what it looks like when I run the code:
 
 <p align="center">
-    <img src="c:\Users\LENOVO\Pictures\Screenshots\Screenshot (171).png" width="1000">
+    <img src="screenshot.png" width="1000">
 </p>
 
 ## Project Structure
 Inside this repository, you will find:
 * `generate.py` — The main Python script to generate password.
 * `README.md` — The documentation you are reading right now.
+* `screenshot.png` — A screenshot of an example output when you run the code.
 
 ## Features and things I have learned from this project:
 * **Python module**: How to use `import string`, `random`, and `secrets`. Now I understand that the dot `.` is used to "access" functions inside a module.
