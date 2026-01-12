@@ -1,7 +1,7 @@
 # Password Generator
 This project is based on FreeCodeCamp (FCC) Scientific Computing with Python curriculum. This tool is to help generate passwords that are actually hard to crack, say goodbye to 'password123' !
 
-It's not just random gibberish, it uses **Regex** to make sure every password has the right mix of symbols, numbers, and letters. And this is what it looks like when I run the code:
+It's not just random gibberish, it uses **Regex** (Regular Expression) to make sure every password has the right mix of symbols, numbers, and letters. And this is what it looks like when I run the code:
 
 ![screenshot](output.png)
 
