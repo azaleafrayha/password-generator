@@ -15,7 +15,7 @@ def generate_password(length=16, nums=1, special_chars=1, uppercase=1, lowercase
 
     while True:
         password = ''
-        # Generate password
+        # Generate password (the length is customisable)
         for _ in range(length):
             password += secrets.choice(all_characters)
         
