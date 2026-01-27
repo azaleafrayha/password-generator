@@ -24,4 +24,4 @@ The script follows a "generate and verify" loop to make sure your password is bo
 
 3. **The "Safety Check"**: Instead of just giving you the password, it uses Regular Expressions `(Regex)` to count how many digits, symbols, and letters are actually in the result.
 
-4. **Validation Loop**: If the password meets all your minimum requirements (e.g., at least one number, one symbol, etc.), the loop breaks and returns the password. But if it fails even one requirement, it throws that password away and starts back at *Step 2*.
+4. **Validation Loop**: If the password meets all your minimum requirements (e.g., at least one number, one symbol, etc.), the loop breaks and returns the password. But if it fails even one requirement, it throws that password away and starts back at **Step 2**.
