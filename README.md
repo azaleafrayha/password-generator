@@ -7,7 +7,7 @@ This project is based on FreeCodeCamp (FCC) Scientific Computing with Python cur
 * **Customizable Length**: Set exactly how long you want your password to be (defaults to 16 characters).
 * **Security-Focused**: Uses the secrets module, which is cryptographically stronger than the standard random library.
 * **Smart Constraints**: You can specify a minimum count for numbers, special characters, uppercase, and lowercase letters.
-* **Guaranteed Quality**: The script doesn't just hope for the best; it checks the password against your rules and re-generates it if they aren't met.
+* **Guaranteed Quality**: The script doesn't just hope for the best but it checks the password against your rules and re-generates it if they aren't met.
 
 ## Project Structure
 Inside this repository, you will find:
