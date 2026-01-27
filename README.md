@@ -3,6 +3,8 @@ This project is based on FreeCodeCamp (FCC) Scientific Computing with Python cur
 
 ![screenshot](output.png)
 
+**NOTE!**: The generated password will be random everytime you run the code!
+
 ## Features
 * **Customizable Length**: Set exactly how long you want your password to be (defaults to 16 characters).
 * **Security-Focused**: Uses the secrets module, which is cryptographically stronger than the standard random library.
