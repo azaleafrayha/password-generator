@@ -18,7 +18,7 @@ Inside this repository, you will find:
 * `output.png` — A screenshot of an example output when you run the code.
 
 ## How The Logic works
-The script follows a "generate and verify" loop to make sure your password is both random and compliant with your rules. Here is the step by step:
+The script follows a "generate and verify" loop to make sure the password is secure. Here's a step-by-step explanation of the logic: 
 
 1. **Character Pool**: It creates a massive list of every possible character—letters (big and small), numbers, and symbols.
 
